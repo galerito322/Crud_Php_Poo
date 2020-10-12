@@ -1,7 +1,7 @@
 <link href="css/style.css" rel="stylesheet">
 
 <?php
-// SETS
+//SETS
 
 use App\Model\Produto;
 use App\Model\ProdutoDao;
