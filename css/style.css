@@ -1,0 +1,50 @@
+td {
+    border: 1px solid black;
+    width: 90px;
+}
+
+th {
+    border: 1px solid black;
+    width: 90px;
+}
+
+.id {
+    width: 0px;
+    color: green;
+
+}
+
+.btn {
+    color: red;
+    
+}
+
+.tablecss {   
+    width: 500px;
+    border: 1px solid black;
+    position: relative;  
+    top: -50px;
+
+}
+
+.tablehead { 
+    font-style: italic;
+    width: 498px;
+    border: 1px solid black;
+    position: relative; 
+    top: -50px; 
+
+}
+
+.input-prepend {
+    position: relative;  
+    margin: 5px;
+    top: 20px;
+    left: 40%;
+    width: 20%;
+}
+
+body {
+    width: auto;
+}
+
