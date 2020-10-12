@@ -9,7 +9,7 @@ use App\Model\ProdutoDao;
 require_once 'vendor/autoload.php';
 
 $produtoDao = new ProdutoDao();
-//$produtoDao->delete(8);
+//$produtoDao->delete(1);
 
 $produtoDao->read();
 
